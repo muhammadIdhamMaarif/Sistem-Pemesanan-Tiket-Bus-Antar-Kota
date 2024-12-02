@@ -1,0 +1,20 @@
+﻿  SIstem_Pemesanan_Tiket_Bus_Antar_Kota.cpp
+D:\(51,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\(51,27): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\(114,56): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\(117,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\(120,34): warning C4244: '=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\(123,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\(125,39): warning C4244: '-=': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\(128,50): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\(195,36): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\(198,36): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\(183,44): warning C4101: 'e': unreferenced local variable
+D:\(186,40): warning C4101: 'e': unreferenced local variable
+D:\(270,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\(278,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\(309,40): warning C4101: 'e': unreferenced local variable
+D:\(312,36): warning C4101: 'e': unreferenced local variable
+D:\(386,27): warning C4305: '=': truncation from 'double' to 'float'
+D:\(392,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SIstem_Pemesanan_Tiket_Bus_Antar_Kota.vcxproj -> D:\### SCHOOL ###\College\Tugas\Pemrograman Dasar\Tugas 6 Pemesanan TIket Bus Antar Kota\SIstem_Pemesanan_Tiket_Bus_Antar_Kota\x64\Debug\SIstem_Pemesanan_Tiket_Bus_Antar_Kota.exe
